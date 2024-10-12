@@ -8,9 +8,10 @@ This project aims to develop a **gas and smell detection system** using the **BM
 - **Adafruit HUZZAH32 ESP32 Feather**: Handles sensor data, processes it, and sends real-time results via Bluetooth or stores it for later analysis.
 
 ## Software
-1. **BME AI-Studio Desktop**: A desktop tool for sensor configuration, model training, and analysis.
-2. **BME AI-Studio Mobile App**: For real-time data monitoring and labeling.
-3. **BSEC2 Library**: Allows custom code development using trained models.
+1. **[BME AI-Studio Desktop](https://www.bosch-sensortec.com/software-tools/double-opt-in-forms/bme688-devkit-software-2-3-4-win-form.html)**: A desktop tool for sensor configuration, model training, and analysis.
+2. **[BME AI-Studio Mobile App](https://www.bosch-sensortec.com/software-tools/double-opt-in-forms/bme688-devkit-software-2-1-5-form.html)**: For real-time data monitoring and labeling.
+3. **[BSEC2 Library](https://github.com/boschsensortec/Bosch-BSEC2-Library)**: Allows custom code development using trained models.
+4. **[BME688 Development Kit Software](https://www.bosch-sensortec.com/software-tools/double-opt-in-forms/bme688-devkit-software-2-1-5-form.html)**
 
 ## Methodology
 1. **Board Configuration**: Flash firmware, configure sensors.
@@ -27,4 +28,4 @@ Potential applications include:
 - **Health Applications** in wearable devices.
 - **Smart Agriculture** and **Home Automation**.
   
-For more details, check out the complete documentation.
+For more details, check out the [complete documentation](https://github.com/dhir-g/Gas-and-Smell-Detection/blob/main/Gas_and_Smell_Detection_System_using_ML_Algorithm.pdf).
