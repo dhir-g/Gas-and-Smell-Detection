@@ -1,7 +1,7 @@
 # Gas and Smell Detection System Using Machine Learning
 
 ## Overview
-This project aims to develop a **gas and smell detection system** using the **BME688 Devkit** and an **ESP32 microcontroller** by applying machine learning algorithms on gas resistance data. The system mimics human smell capabilities and can detect various gases, making it ideal for industrial and robotics applications.
+This project aims to develop a **gas and smell detection system** using the **BME688 Devkit** and an **ESP32 microcontroller** by applying ADAM optimizer machine learning algorithm on gas resistance data. The system mimics human smell capabilities and can detect various gases, making it ideal for industrial and robotics applications.
 
 ## Hardware
 - **BME688 Devkit**: Environmental sensor for detecting temperature, pressure, humidity, and gas using AI.
