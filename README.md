@@ -28,4 +28,4 @@ Potential applications include:
 - **Health Applications** in wearable devices.
 - **Smart Agriculture** and **Home Automation**.
   
-For more details, check out the [complete documentation](https://github.com/dhir-g/Gas-and-Smell-Detection/blob/main/Gas_and_Smell_Detection_System_using_ML_Algorithm.pdf).
+For more details, check out the Documentation folder.
